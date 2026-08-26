@@ -1,0 +1,15 @@
+NMSE Calculation Results (considering quantization wraparound)
+============================================================
+
+Ground truth: 1450.txt
+Reconstructed matrix: reconstructed_matrix.json
+
+Configuration:
+phi-columns (mod 64): indices {0,1,2,6,7}
+psi-columns (mod 16): indices {3,4,5,8,9}
+
+NMSE: 0.016435 (-17.84 dB)
+
+Detailed Error Analysis:
+  phi column errors - Mean: 2.612, Max: 18, Std Dev: 3.106
+  psi column errors - Mean: 0.503, Max: 5, Std Dev: 0.862
