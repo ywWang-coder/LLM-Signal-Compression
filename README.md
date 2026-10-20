@@ -1,6 +1,10 @@
 # Introduction
 This repository contains the dataset, prompt details and experimental results for the paper:  "Can LLMs Compress Wireless Signals? Physics-Informed Prompting for Training-Free Signal Compression." This paper has been accepted to **Findings of EMNLP 2026**.
 
+## Paper
+
+The full paper is available in this repository: [Read the paper (PDF)](EMNLP_26.pdf).
+
 ## Authors
 
 - **Yiwei Wang**<sup>1</sup> - wangyw12024@shanghaitech.edu.cn
