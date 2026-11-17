@@ -3,7 +3,7 @@ This repository contains the dataset, prompt details and experimental results fo
 
 ## Paper
 
-The full paper is available in this repository: [Read the paper (PDF)](EMNLP_26.pdf).
+The full paper is freely available to read and download on the official [ACL Anthology page](https://aclanthology.org/2026.findings-emnlp.879/).
 
 ## Authors
 
